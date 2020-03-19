@@ -1,2 +1,2 @@
 # QMLSideSwipeTabTest
-Qml test
+Small Qml implementation of swipe side tab
